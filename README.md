@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
 <h3>A Front-end Developer skilled in advanced technologies like React, Next.js, and GraphQL, focused on building accessible, efficient websites and applications. Beyond coding, I am passionate about 3D design and AI, constantly seeking innovative solutions to technological challenges.</h3>
 
-🔭 I'm currently working on developing my frontend and AI skills
-📝 I regularly write articles on [https://medium.com/@przemyslaw.kuca](https://medium.com/@przemyslaw.kuca)
-💬 Ask me about **AI, React, TypeScript or JavaScript**
+<p>🔭 I'm currently working on developing my frontend and AI skills</p>
+<p>📝 I regularly write articles on <a href="https://medium.com/@przemyslaw.kuca">https://medium.com/@przemyslaw.kuca</a></p>
+<p>💬 Ask me about <strong>AI, React, TypeScript or JavaScript</strong></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
